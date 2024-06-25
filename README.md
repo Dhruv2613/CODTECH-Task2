@@ -1,4 +1,8 @@
+
 # Weather Forecast Web Application
+
+![image](https://github.com/Dhruv2613/CODTECH-Task2/assets/122954469/5afd4ffb-cecf-43a4-90a2-2303e067a5a8)
+
 
 ## Objective
 The objective of this project is to design and develop a Weather Forecast web application that provides users with real-time weather updates for any location. The application aims to deliver accurate and up-to-date weather information through a simple and user-friendly interface.
