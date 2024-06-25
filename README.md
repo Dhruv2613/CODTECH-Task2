@@ -1,3 +1,14 @@
+**Name**: DHRUV BHARDWAJ 
+
+**Company**: CODTECH IT SOLUTIONS 
+
+**ID**: CT6WDS208
+
+**Domain**: Web Development 
+
+**Duration**: June 10 to July 22 (6 Weeks) 
+
+**Mentor**: SRAVANI GOUNI
 
 # Weather Forecast Web Application
 
